@@ -27,3 +27,8 @@ Et sa base sera un flotteur antigravité. (donc animation de suspension)
   
 il faudra donc un face, dos, profile pour donné l’illusion d’une entité 3D
   
+Le Tutoriel contient :
+- plusieurs langages disponible
+- un robot qui aide le joueur au cours de son avancé dans le tutoriel
+- l'apprentissage de l'indispensable du jeu tel que l'ID, l'équipement, la botanique etc
+- Une session libre pour s'entrainer sur les armes, la botanique ou encore l'infirmerie
