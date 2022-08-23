@@ -17,3 +17,10 @@ Changelogs:
     CL: [Improvement] Player Prefab : Added TutoPlayer script, destroy itself if not in tutorial
     CL: [Improvement] GUIAntagBanner script : Display "TUTORIAL" instead of job name in tutorial
     CL: [Improvement] GameManager script: onTuto and language variable added for tutorial
+
+------------------------------------------------------
+
+Version 1.0.1
+Date: 23/08/2022 - 6h
+Dae
+quel modification mineur dans le readme.md
