@@ -29,7 +29,6 @@ il faudra donc un face, dos, profile pour donné l’illusion d’une entité 3D
   
 Le Tutoriel contient :
 - plusieurs langages disponible
-- un robot qui aide le joueur au cours de son avancé dans le tutoriel
-https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/asset/Bot/attention-front/attention-front-1.gif?raw=true
+- un robot qui aide le joueur au cours de son avancé dans le tutoriel ![alt text](https://raw.githubusercontent.com/Unitystation-fork/UnityStation-Tutorial/main/asset/Bot/attention-front/attention-front-1.gif)
 - l'apprentissage de l'indispensable du jeu tel que l'ID, l'équipement, la botanique etc
 - Une session libre pour s'entrainer sur les armes, la botanique ou encore l'infirmerie
