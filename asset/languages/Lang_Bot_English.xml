@@ -10,7 +10,7 @@
 <languages>
     <English>
         <string name = "SpawnMove">Welcome aboard ! &lt;br&gt;I am &lt;b&gt;A&lt;Tutorial_Bot&gt;&lt;/b&gt;, your training robot. &lt;br&gt;First of all, move with &lt;b&gt;WASD&lt;/b&gt; to the table.</string>
-        <string name = "Id">Aarning : without the &lt;b&gt;Identification Card(ID)&lt;/b&gt;, yo can't open any doors. Always keep your &lt;b&gt;ID&lt;/b&gt; with you !</string>
+        <string name = "Id">Warning : without the &lt;b&gt;Identification Card(ID)&lt;/b&gt;, yo can't open any doors. Always keep your &lt;b&gt;ID&lt;/b&gt; with you !</string>
         <string name = "Equip">Equip the clothes on the table by getting it with &lt;b&gt;left click&lt;/b&gt;, &lt;br&gt; and equipping it with &lt;b&gt;E&lt;/b&gt;."</string>
         <string name = "PdaInId">To take less place in your inventory, you can insert your PDA in your Identification Card by selectionning &lt;b&gt;the latter&lt;/b&gt; and clicking on &lt;b&gt;the former&lt;/b&gt; ! &lt;br&gt;You can also switch hands with the key &lt;b&gt;X&lt;/b&gt;.</string>
         <string name = "Light">It's so dark ! I might lose sight of you, but you can't always interact and especially &lt;b&gt;pull me by right clicking me&lt;/b&gt; and chose your action. &lt;br&gt;You can also toggle the light integrated on your PDA, like as a lighthouse in a dark world, but only on 2m...  &lt;br&gt;No? &lt;br&gt;I don't need one, I'm a robot after all.</string>
