@@ -22,12 +22,16 @@ Changelogs:
 
 Version 1.0.1
 Date: 23/08/2022 - 6h
+
 Dae
+
 quelques modification mineur dans le readme.md
 
 ------------------------------------------------------
 
 Version 1.0.2
 Date: 25/08/2022 - 16h
+
 Dae
+
     ajout de la traduction allemand, correction d'une erreur dans le fichier EN et FR
