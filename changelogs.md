@@ -35,3 +35,13 @@ Date: 25/08/2022 - 16h
 Dae
 
     ajout de la traduction allemand, correction d'une erreur dans le fichier EN et FR
+    
+------------------------------------------------------
+
+Version 1.0.3
+Date: 25/08/2022 - 17h
+
+Dae
+
+    ajout de la traduction RU
+
