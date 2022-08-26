@@ -44,4 +44,12 @@ Date: 25/08/2022 - 17h
 Dae
 
     ajout de la traduction RU
+------------------------------------------------------
+
+Version 1.0.4
+Date: 26/08/2022 - 3h
+
+Dae
+
+    Correction RU
 
