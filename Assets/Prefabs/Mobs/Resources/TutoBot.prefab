@@ -293,11 +293,12 @@ MonoBehaviour:
   LocalTargetPosition: {x: 0, y: 0, z: 0}
   ChangesDirectionPush: 1
   Intangible: 0
-  CanBeWindPushed: 1
+  CanBeWindPushed: 0
   IsPlayer: 0
   InitialLocationSynchronised: 1
   tileMoveSpeed: 15
   isNotPushable: 0
+  HasOwnGravity: 0
   airTime: 0
   slideTime: 0
   SetIgnoreSticky: 0

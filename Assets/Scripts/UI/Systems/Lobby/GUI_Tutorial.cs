@@ -6,7 +6,7 @@ using System.IO;
 
 public class GUI_Tutorial : MonoBehaviour
 {
-    public GameObject LanguageChoice;
+    public GameObject languageChoice;
     public void OnTutorialButton(string choice)
     {
         ///Start tutorial
@@ -14,13 +14,13 @@ public class GUI_Tutorial : MonoBehaviour
         GameManager.Instance.language = choice;
         LoadingScreenManager.LoadFromLobby(CustomNetworkManager.Instance.StartHost);
     }
-
+    
     public void ChoiceLanguage()
     {
-        LanguageChoice.SetActive(true);
+        languageChoice.SetActive(true);
     }
     public void ExitChoice()
     {
-        LanguageChoice.SetActive(false);
+        languageChoice.SetActive(false);
     }
 }
