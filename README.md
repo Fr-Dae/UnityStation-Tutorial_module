@@ -45,6 +45,7 @@ Le Tutoriel contient :
 - Ajouté une phrase pour expliqué les courrant d'air , changement de pression, absence de gravité, type de blessure.
 - Verouillé sur la table le chargeur dans l'armurerie.
 - Faire que le bot puisse pointé un element, (vetement, id, pda, sac, casier, medkit, distributeur)
-
+- travaillé la mise en forme du dialogue du bot, ajouté quelques retour a la ligne par exemple
+  
 - Prevoir un nouveau tutoriel pour chaque departement. 
 
