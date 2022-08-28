@@ -32,3 +32,9 @@ Le Tutoriel contient :
 - un robot qui aide le joueur au cours de son avancé dans le tutoriel ![alt text](https://raw.githubusercontent.com/Unitystation-fork/UnityStation-Tutorial/main/asset/Bot/attention-front/attention-front-1.gif)
 - l'apprentissage de l'indispensable du jeu tel que l'ID, l'équipement, l'inventaire, l'oxygen, etc
 - Une session libre pour s'entrainer sur les armes, la botanique ou encore l'infirmerie
+
+<b>Notes :</b>
+- l'affichage de l'interface en mode admin et de la console sont <b>désactivées</b>, mais il est possible qu'elles le soient tout le temps (à verifier)
+
+<b>To do :</b>
+- Pouvoir charger le jeu depuis UnityStation Hub
