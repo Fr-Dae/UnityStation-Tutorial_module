@@ -38,6 +38,7 @@ Le Tutoriel contient :
 
 <b>To do :</b>
 - Le dialogue "vetement" ne se declanche pas pres avoir bougé
+- faire que la porte coupe-feu s'ouvre toute seule si l'O² reviens
 - Pouvoir charger le jeu depuis UnityStation Hub (sans le chargement infini)
 - S'assuré que le menu Admin existe toujours hors du tutoriel (ou ajouté une commande f5 pour l'affiché)
 - Faire ramassé un morceau de verre au joueur, et lui demandé de se soigné en Medbay
