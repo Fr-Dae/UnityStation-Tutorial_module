@@ -1,5 +1,23 @@
 ------------------------------------------------------
 
+Version 1.0.6
+Date: 28/08/2022 - 3h
+
+Akuro
+
+    - Scène du tutoriel modifiée :
+        - double couche de murs / fenêtres
+        - 1 masque à gaz retiré
+        - salle CO2 fonctionnelle
+        - Alarmes + firedoor ajoutées
+        - Orientations des lampes corrigées + quelques lampes cassés
+        - Casier à O2 ajouté
+    - Sons d'ambiance ajoutés
+    - Langues Russe et Allemand implémenté
+    - Robot affiche une bulle de texte quand il parle
+
+------------------------------------------------------
+
 Version 1.0.5
 Date: 27/08/2022 - 3h
 
@@ -50,6 +68,8 @@ quelques modification mineur dans le readme.md
 
 Version 1.0.0
 Date: 23/08/2022 - 4h
+
+Akuro
 
 Changelogs: 
 
