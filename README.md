@@ -29,7 +29,7 @@ il faudra donc un face, dos, profile pour donné l’illusion d’une entité 3D
   
 Le Tutoriel contient :
 - plusieurs langages disponible
-- un robot qui aide le joueur au cours de son avancé dans le tutoriel ![alt text](https://raw.githubusercontent.com/Unitystation-fork/UnityStation-Tutorial/main/asset/Bot/attention-front/attention-front-1.gif)
+- un robot qui aide le joueur au cours de son avancé dans le tutoriel ![alt text](https://raw.githubusercontent.com/Unitystation-fork/UnityStation-Tutorial/main/Assets/Textures/Bot/Attention-Front/attention-front-1.gif)
 - l'apprentissage de l'indispensable du jeu tel que l'ID, l'équipement, l'inventaire, l'oxygen, etc
 - Une session libre pour s'entrainer sur les armes, la botanique ou encore l'infirmerie
 
@@ -37,4 +37,31 @@ Le Tutoriel contient :
 - l'affichage de l'interface en mode admin et de la console sont <b>désactivées</b>, mais il est possible qu'elles le soient tout le temps (à verifier)
 
 <b>To do :</b>
-- Pouvoir charger le jeu depuis UnityStation Hub
+- Le dialogue "vetement" ne se declanche pas pres avoir bougé
+- faire que la porte coupe-feu s'ouvre toute seule si l'O² reviens
+- Pouvoir charger le jeu depuis UnityStation Hub (sans le chargement infini)
+- S'assuré que le menu Admin existe toujours hors du tutoriel (ou ajouté une commande f5 pour l'affiché)
+- Faire ramassé un morceau de verre au joueur, et lui demandé de se soigné en Medbay
+- Resoudre le soucis de musique d'ambiance absente.
+- Si le tutorial bot est trop loin du joueur, il se teleportera.
+- Ajouté une phrase pour expliqué les courrant d'air , changement de pression, absence de gravité, type de blessure.
+- Verouillé sur la table le chargeur dans l'armurerie.
+- Faire que le bot puisse pointé un element, (vetement, id, pda, sac, casier, medkit, distributeur)
+- travaillé la mise en forme du dialogue du bot, ajouté quelques retour a la ligne par exemple
+  
+  Une salle où un objet bloque le passage,
+- Il faut passé par dessus une table (non en verre)  tirer une caisse, en poussé une autre, 
+- frapper un objet pour le brisé, 
+- jeter un objet 
+
+- le joueur dois se blesser avec un eclat de verre pour utilisé le medkit.
+
+
+- une salle sans electricité pour un exercice incendie.
+- marcher (pour évité de glissé)
+
+- si le joueur meur, le scenario reprend a zero, et un message "try again," devrai s'afficher
+  
+  
+- Prevoir un nouveau tutoriel pour chaque departement. 
+
