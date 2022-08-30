@@ -163,3 +163,5 @@ to finish your tutorial, please go to the east of the shuttle.
 door ofset and dark
 
 look into space ambience
+  
+  https://youtu.be/krssJiDJLhY
