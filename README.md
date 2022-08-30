@@ -49,5 +49,19 @@ Le Tutoriel contient :
 - Faire que le bot puisse pointé un element, (vetement, id, pda, sac, casier, medkit, distributeur)
 - travaillé la mise en forme du dialogue du bot, ajouté quelques retour a la ligne par exemple
   
+  Une salle où un objet bloque le passage,
+- Il faut passé par dessus une table (non en verre)  tirer une caisse, en poussé une autre, 
+- frapper un objet pour le brisé, 
+- jeter un objet 
+
+- le joueur dois se blesser avec un eclat de verre pour utilisé le medkit.
+
+
+- une salle sans electricité pour un exercice incendie.
+- marcher (pour évité de glissé)
+
+- si le joueur meur, le scenario reprend a zero, et un message "try again," devrai s'afficher
+  
+  
 - Prevoir un nouveau tutoriel pour chaque departement. 
 
