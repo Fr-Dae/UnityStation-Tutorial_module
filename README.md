@@ -65,9 +65,11 @@ Le Tutoriel contient :
   
 - Prevoir un nouveau tutoriel pour chaque departement. 
 
-# Refined English translation, added line breaks for easier readability. 
+  ### 1.0.5 prototype review
+  
+* Refined English translation, added line breaks for easier readability. 
 
-# Job selection screen
+* Job selection screen
 
 If possible ignore or not display the job selection screen, 
 (especially since if you select mime, you get its skills in tutorial)
