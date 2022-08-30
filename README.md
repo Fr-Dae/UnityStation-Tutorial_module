@@ -61,9 +61,11 @@ Le Tutoriel contient :
 - marcher (pour évité de glissé)
 
 - si le joueur meur, le scenario reprend a zero, et un message "try again," devrai s'afficher
-  
+- prevoir des arrivé d'oxygen dans chaque pieces (sauf CO²) si le joueur est AFK 
   
 - Prevoir un nouveau tutoriel pour chaque departement. 
+  
+ 
 
 # 1.0.5 prototype review
   
