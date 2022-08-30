@@ -65,47 +65,44 @@ Le Tutoriel contient :
   
 - Prevoir un nouveau tutoriel pour chaque departement. 
 
-  ### 1.0.5 prototype review
+# 1.0.5 prototype review
   
 * Refined English translation, added line breaks for easier readability. 
 
 * Job selection screen
 
-If possible ignore or not display the job selection screen, 
+####If possible ignore or not display the job selection screen, 
 (especially since if you select mime, you get its skills in tutorial)
 (or IA)
 
-shorter delay on, equipping clothing
+####shorter delay on, equipping clothing
 Reduce the delay so that the bot invites you to wear clothes with the hanger or with E.
 like as soon as you've taken 2 steps.
 pointing to the table.
 
-
-how to open doors
+####how to open doors
 you can open the door by stepping on it if your ID is in the right place or in hand.
 or clicked on it.
 
-
-bot Teleport
+####bot Teleport
 If the bot is too far from the player, it will teleport to you.
 
-
-nees to say box in the bag
+####nees to say box in the bag
 You have to say in the dialogue that in the bag, there is a box, which must be opened (for example with the small blue arrow)
 and find oxygen and a mask in it.
 
 add the box of the atmo technician which contains a larger oxygen bottle.
 to activate the oxygen in your mask you have an icon on the right of your interface.
 
-point to the metal tiles
-
+####point to the metal tiles
 once in the room, the bot must point to the metal bars and floor tiles.
 
 since they move around
-Nice to explain how to equip
+
+####Nice to explain how to equip
 (not really useful)
 
-
+#### hole room
 in the next room you need one hole, not two
 one rod, and several floor tiles.
 
@@ -115,14 +112,15 @@ but you can also force the door open manually with the red panel on the wall.
 pointing at the wall
 
 
-
+#### Bar
 pointing at several things in the "bar" room
 to encourage the player to use them.
 
+#### corridor  
 when leaving the bar, remember to turn off your oxygen supply to avoid asphyxiating yourself
 You will find spare bottles in the blue lockers. "O²"
 
-
+#### training weapong room
 activating stuff in hand
 #detecting an empty magazine
 you can use Z to interact with the object in hand, or click on it.
@@ -132,14 +130,15 @@ for energy weapons, you have a magazine north of your position.
 * lock the battery charger on the table to make it functional
 
 
-Botanic
+####Botanic
 pointing at distributor
 explaining the, lights on the high tropics
 the hydroponics stations have several lights showing their state, water (blue) weed (red), low nutrient (orange) ready for harvest.
 you can put a seed or a fruit directly on it.
 be careful, if you add a fruit on a plantation you will compost it.
 
-invite the player to take off his gloves, and pick up that shard of glass from the ground.
+####medbay
+  invite the player to take off his gloves, and pick up that shard of glass from the ground.
 #detectingabloodstain
 "apparently your pain sensor is working, congratulations!
 if you don't want to stop emptying your vital fluid on the floor?
@@ -148,11 +147,11 @@ the health analyser will give you the nature and severity of your injury.
 you can then use the appropriate treatment.
 to target a wound carefully, use your number pad or click on the icon at the bottom with the character.
 
-
+#### add room
 In a room where access is blocked, the player will have to climb over a table, pull a crate, push another one, hit a piece of debris
 to free the access.
 
-optional room, firetest.
+#### optional room, firetest.
 a room with a door, a red locker.
 You have to equip yourself with the fire protection suit, turn on the helmet and equip it.
 then another door without energy and with the firelock engaged, it will be necessary to force the two doors with the crowbar.
