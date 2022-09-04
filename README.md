@@ -152,7 +152,8 @@ to target a wound carefully, use your number pad or click on the icon at the bot
 #### add room
 In a room where access is blocked, the player will have to climb over a table, pull a crate, push another one, hit a piece of debris
 to free the access.
-  
+  ![2022-08-30-200959_1920x1080_scrot](https://user-images.githubusercontent.com/23202421/188337380-b1ae6d3a-229d-47df-a895-5d313cabea96.png)
+
 https://youtu.be/krssJiDJLhY  
 
 #### optional room, firetest.
