@@ -152,6 +152,8 @@ to target a wound carefully, use your number pad or click on the icon at the bot
 #### add room
 In a room where access is blocked, the player will have to climb over a table, pull a crate, push another one, hit a piece of debris
 to free the access.
+  
+https://youtu.be/krssJiDJLhY  
 
 #### optional room, firetest.
 a room with a door, a red locker.
@@ -159,6 +161,8 @@ You have to equip yourself with the fire protection suit, turn on the helmet and
 then another door without energy and with the firelock engaged, it will be necessary to force the two doors with the crowbar.
 find the origin of the fire, and use the extinguisher on it.
 beware it is recommended to walk "C" not to slip on a puddle of water.
+
+  ![2022-08-30-181759_1920x1080_scrot](https://user-images.githubusercontent.com/23202421/188337362-36440ced-4fff-4aea-ba53-a1f7601ce2cf.png)
 
 
 to finish your tutorial, please go to the east of the shuttle.
