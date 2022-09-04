@@ -73,23 +73,23 @@ Le Tutoriel contient :
 
 * Job selection screen
 
-####If possible ignore or not display the job selection screen, 
+#### If possible ignore or not display the job selection screen, 
 (especially since if you select mime, you get its skills in tutorial)
 (or IA)
 
-####shorter delay on, equipping clothing
+#### shorter delay on, equipping clothing
 Reduce the delay so that the bot invites you to wear clothes with the hanger or with E.
 like as soon as you've taken 2 steps.
 pointing to the table.
 
-####how to open doors
+#### how to open doors
 you can open the door by stepping on it if your ID is in the right place or in hand.
 or clicked on it.
 
-####bot Teleport
+#### bot Teleport
 If the bot is too far from the player, it will teleport to you.
 
-####nees to say box in the bag
+#### nees to say box in the bag
 You have to say in the dialogue that in the bag, there is a box, which must be opened (for example with the small blue arrow)
 and find oxygen and a mask in it.
 
@@ -101,7 +101,7 @@ once in the room, the bot must point to the metal bars and floor tiles.
 
 since they move around
 
-####Nice to explain how to equip
+#### Nice to explain how to equip
 (not really useful)
 
 #### hole room
@@ -132,14 +132,14 @@ for energy weapons, you have a magazine north of your position.
 * lock the battery charger on the table to make it functional
 
 
-####Botanic
+#### Botanic
 pointing at distributor
 explaining the, lights on the high tropics
 the hydroponics stations have several lights showing their state, water (blue) weed (red), low nutrient (orange) ready for harvest.
 you can put a seed or a fruit directly on it.
 be careful, if you add a fruit on a plantation you will compost it.
 
-####medbay
+#### medbay
   invite the player to take off his gloves, and pick up that shard of glass from the ground.
 #detectingabloodstain
 "apparently your pain sensor is working, congratulations!
