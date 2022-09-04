@@ -135,7 +135,15 @@ for energy weapons, you have a magazine north of your position.
 #### Botanic
 pointing at distributor
 explaining the, lights on the high tropics
-the hydroponics stations have several lights showing their state, water (blue) weed (red), low nutrient (orange) ready for harvest.
+the hydroponics stations have several lights showing their state, 
+ 
+- water (blue) 
+
+- weed (red), 
+  
+- low nutrient (orange) 
+  
+- ready for harvest.(green)
 you can put a seed or a fruit directly on it.
 be careful, if you add a fruit on a plantation you will compost it.
 
