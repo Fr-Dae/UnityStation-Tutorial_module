@@ -96,7 +96,7 @@ and find oxygen and a mask in it.
 add the box of the atmo technician which contains a larger oxygen bottle.
 to activate the oxygen in your mask you have an icon on the right of your interface.
 
-####point to the metal tiles
+#### point to the metal tiles
 once in the room, the bot must point to the metal bars and floor tiles.
 
 since they move around
