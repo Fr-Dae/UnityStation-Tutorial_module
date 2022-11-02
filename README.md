@@ -91,7 +91,7 @@ Pour l'accompagner et le guider, sera présent le Tutorial-bot.
 
 C'est un NPC qui a pour fonction de suivre le joueur et de réciter un dialogue dans le tchat du jeu lorsque le joueur est à un endroit spécifique.
 
-##### Tutoriel-bot [alt text]([https://raw.githubusercontent.com/Unitystation-fork/UnityStation-Tutorial/main/Assets/Textures/Bot/Attention-Front/attention-front-1.gif](https://raw.githubusercontent.com/Unitystation-fork/UnityStation-Tutorial/main/Assets/Textures/Bot/Attention-Front/attention-front-1.gif)
+##### Tutoriel-bot [alt text]([https://raw.githubusercontent.com/Unitystation-fork/UnityStation-Tutorial/main/Assets/Textures/Bot/Attention-Front/attention-front-1.gif](https://raw.githubusercontent.com/Unitystation-fork/UnityStation-Tutorial/main/Assets/Textures/Bot/Attention-Front/attention-front-1.gif))
 
 La charte graphique est ainsi définie:
 
