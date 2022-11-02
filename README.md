@@ -16,7 +16,7 @@ Tutoriel Solo - Les bases
 │		└── Mode admin
 ├── Installation
 │ 	├── Actuellement
-│   └── Projet rendu
+│       └── Projet rendu
 ├── Mise à jour
 ├── Usage
 └── ToDo
