@@ -75,12 +75,8 @@ découvrant Unitystaiton.
 -   (Optionnel) Acheter des objets dans les distributeurs
 -   (Optionnel) Utiliser le jukebox
 -   (Optionnel) Utiliser et recharger une arme
--   
-`
-│		    ├──    à feu/
-
-│		    └──    à énergie/
-`
+-   - à feu/
+-   - à énergie/
 -   (Optionnel) Comprendre le système de blessures, et de soins basiques (appliquer au joueurs un dégât)
 -   (Optionnel) Savoir planter une graine pour se familiariser avec les mécaniques d'un métier (botanic basics)
 -   (Optionnel) Utiliser un extincteur pour éteindre un feu, et forcer une porte sans électricité
