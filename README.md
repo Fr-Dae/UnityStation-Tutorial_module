@@ -75,6 +75,7 @@ découvrant Unitystaiton.
 -   (Optionnel) Acheter des objets dans les distributeurs
 -   (Optionnel) Utiliser le jukebox
 -   (Optionnel) Utiliser et recharger une arme
+-   
 `
 │		    ├──    à feu/
 
