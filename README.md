@@ -4,8 +4,8 @@
 
 [TOC]
 
-**Tutoriel Solo - Les bases
-
+```Markdown
+Tutoriel Solo - Les bases
 ├── Languages utilisés
 ├── Description du projet
 ├── Credit , participant, organisation
@@ -20,7 +20,8 @@
 ├── Mise à jour
 ├── Usage
 └── ToDo
-**
+```
+
 -------------
 
 ### Languages utilisés
