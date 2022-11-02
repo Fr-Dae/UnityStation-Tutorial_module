@@ -77,6 +77,7 @@ découvrant Unitystaiton.
 -   (Optionnel) Utiliser et recharger une arme
 `
 │		    ├──    à feu
+
 │		    └──    à énergie
 `
 -   (Optionnel) Comprendre le système de blessures, et de soins basiques (appliquer au joueurs un dégât)
