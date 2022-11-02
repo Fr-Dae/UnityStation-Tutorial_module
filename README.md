@@ -48,7 +48,7 @@ Liste des contributeurs
 
 ![Credit.md]([https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Credit.md)
 
-![Licence.md]((https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/LICENSE)
+![Licence.md]((https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/LICENSE))
 
 -------------
 
