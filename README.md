@@ -2,11 +2,26 @@
 
 [TOCM]
 
-  
-
 [TOC]
 
-  
+**Tutoriel Solo - Les bases
+
+├── Languages utilisés
+├── Description du projet
+├── Credit , participant, organisation
+├── Public cible
+├── But du projet
+│	└── Détails techniques
+│		├── Tutoriel-bot alt text )
+│		└── Mode admin
+├── Installation
+│ 	├── Actuellement
+│   └── Projet rendu
+├── Mise à jour
+├── Usage
+└── ToDo
+**
+-------------
 
 ### Languages utilisés
 
