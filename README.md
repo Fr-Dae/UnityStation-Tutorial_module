@@ -76,9 +76,9 @@ découvrant Unitystaiton.
 -   (Optionnel) Utiliser le jukebox
 -   (Optionnel) Utiliser et recharger une arme
 `
-│		    ├──    à feu
+│		    ├──    à feu/
 
-│		    └──    à énergie
+│		    └──    à énergie/
 `
 -   (Optionnel) Comprendre le système de blessures, et de soins basiques (appliquer au joueurs un dégât)
 -   (Optionnel) Savoir planter une graine pour se familiariser avec les mécaniques d'un métier (botanic basics)
