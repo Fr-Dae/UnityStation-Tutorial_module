@@ -1,5 +1,3 @@
-```markdown
-
 ## Tutoriel Solo - Les bases
 
 [TOCM]
@@ -167,8 +165,4 @@ il existe une video de gameplay pour la version 1.0.5
 
 [https://youtu.be/SM2RSpfiJys](https://youtu.be/SM2RSpfiJys)
 
-  
-
-  
-
-```
+ 
