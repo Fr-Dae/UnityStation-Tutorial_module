@@ -180,14 +180,10 @@ Pour quitter le tutoriel, dirigez-vous vers la navette au sud de la station. Sur
 
 #### prototype
 
-il existe une video de gameplay pour la version 1.0.5
+il existe une video de gameplay pour la version 1.0.5  ![Video Prototo 1.0.5](https://youtu.be/SM2RSpfiJys)
 
-![Video Prototo 1.0.5](https://youtu.be/SM2RSpfiJys)
 
-Salle obligatoire push-pull
+Salle obligatoire push-pull  ![PushPull Video](https://www.youtube.com/watch?v=krssJiDJLhY&list=PLcDOh0742YWlxbLp4A0BF6CJREvZH7d4A&index=14)
 
-![PushPull Video](https://www.youtube.com/watch?v=krssJiDJLhY&list=PLcDOh0742YWlxbLp4A0BF6CJREvZH7d4A&index=14)
 
-Salle exercice incendie
-
-![FireExercice Video](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Images/2022-08-30-181759_1920x1080_scrot.png?raw=true)
+Salle exercice incendie ![FireExercice Video](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Images/2022-08-30-181759_1920x1080_scrot.png?raw=true)
