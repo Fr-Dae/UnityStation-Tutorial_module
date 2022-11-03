@@ -182,11 +182,11 @@ Pour quitter le tutoriel, dirigez-vous vers la navette au sud de la station. Sur
 
 il existe une video de gameplay pour la version 1.0.5
 
-! [](https://youtu.be/SM2RSpfiJys)
+![](https://youtu.be/SM2RSpfiJys)
 
 Salle obligatoire push-pull
-! [](https://www.youtube.com/watch?v=krssJiDJLhY&list=PLcDOh0742YWlxbLp4A0BF6CJREvZH7d4A&index=14)
+![](https://www.youtube.com/watch?v=krssJiDJLhY&list=PLcDOh0742YWlxbLp4A0BF6CJREvZH7d4A&index=14)
 
 Salle exercice incendie
 
-! [](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Images/2022-08-30-181759_1920x1080_scrot.png?raw=true)
+![](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Images/2022-08-30-181759_1920x1080_scrot.png?raw=true)
