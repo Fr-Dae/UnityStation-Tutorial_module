@@ -12,7 +12,7 @@ Tutoriel Solo - Les bases
 ├── Public cible
 ├── But du projet
 │	└── Détails techniques
-│		├── Tutoriel-bot alt text )
+│		├── Tutoriel-bot 
 │		└── Mode admin
 ├── Installation
 │ 	├── Actuellement
