@@ -46,11 +46,7 @@ Ce projet a pour but  de crée une extention pour Unitystation, affin d'apprendr
 
 Géré par l'équipe de developpement de Unionrolistes
 
-Liste des contributeurs
-
-![Credit.md]([https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Credit.md)
-
-![Licence.md]((https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/LICENSE))
+Liste des contributeurs -- ![Credit.md](/Credit.md) & ![Licence.md](/LICENSE)
 
 -------------
 
