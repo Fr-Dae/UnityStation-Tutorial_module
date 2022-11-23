@@ -1,44 +1,11 @@
-<<<<<<< HEAD
-##  Titre du projet
-=======
 ## UnityStation
 
->>>>>>> dev
 [TOCM]
 
 [TOC]
 
 ### Language utilisé
 
-<<<<<<< HEAD
--------------
-
-### Description du projet
--------------
-### Credit , participant, organisation
-Géré par l'équipe de developpement de Unionrolistes
-Liste des contributeur Credit.md 
-Licence.md
--------------
-### But du projet / public cible
-#### .
--------------
-### Installation
-#### .
--------------
-### Mise à jour
-#### .
--------------
-### Usage
-#### .
----
-### ToDo
-Todo.md
-
--------------
-
-
-=======
 ----------
 ### Lancement du projet pour DEV
 
@@ -86,7 +53,6 @@ Version du projet 2021.3.12
 Todo.md
 
 ----------
->>>>>>> dev
 
 Vidéo:
 
