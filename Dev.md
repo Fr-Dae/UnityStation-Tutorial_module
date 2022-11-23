@@ -6,7 +6,14 @@
 
 
 ----------
+
+`Bonjour, vous etes arriver ici, car vous souhaitez contribuer au developpement du tutoriel. félicitation ! (et merci)
+vous trouverez ici les information utile vous fous facilité la vie dans votre tache.`
+**Bonne chance.**
+
 ### Lancement du projet pour DEV
+
+![Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
  - Cloner unitystation-dev_2022_08_24 (Branche:Tutorial)
  - Lancer le projet unitystation-dev_2022_08_24/UnityProject
@@ -19,7 +26,7 @@ https://unitystation.github.io/unitystation/contribution-guides/Starting-contrib
 
 ### Credit , participant, organisation
 
-## Géré par l'équipe de developpement de Unionrolistes Liste des contributeur Credit.md Licence.md
+Géré par l'équipe de developpement de Unionrolistes Liste des contributeur ![Credit.md](/Credit.md) & ![Licence.md](/LICENSE)
 
 ### But du projet / public cible
 
