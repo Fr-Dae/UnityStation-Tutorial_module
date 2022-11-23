@@ -171,8 +171,8 @@ Pour quitter le tutoriel, dirigez-vous vers la navette au sud de la station. Sur
 
 ---
 ### how to contribue - DEV
-! [DEV.MD](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Dev.md)
-### ToDo
+![DEV.MD](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Dev.md)
+
 
   
 
