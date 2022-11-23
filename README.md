@@ -19,7 +19,8 @@ Tutoriel Solo - Les bases
 │       └── Projet rendu
 ├── Mise à jour
 ├── Usage
-└── ToDo
+└── Contribution / dev
+    └── ToDo
 
 ```
 
@@ -169,10 +170,9 @@ Pour quitter le tutoriel, dirigez-vous vers la navette au sud de la station. Sur
 (idée : menu qui propose d'autres scenarios de tutoriels départements)
 
 ---
-
+### how to contribue - DEV
+! [DEV.MD](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Dev.md)
 ### ToDo
-
-![TODO](https://github.com/orgs/Unitystation-fork/projects/1/views/4?visibleFields=%5B%22Title%22%2C%22Repository%22%2C%22Assignees%22%2C%22Status%22%5D](https://github.com/orgs/Unitystation-fork/projects/1/views/4?visibleFields=%5B%22Title%22%2C%22Labels%22%2C%22Assignees%22%2C%22Repository%22%2C%22Status%22%5D))
 
   
 
@@ -183,7 +183,4 @@ Pour quitter le tutoriel, dirigez-vous vers la navette au sud de la station. Sur
 il existe une video de gameplay pour la version 1.0.5  ! [Video Prototo 1.0.5](https://youtu.be/SM2RSpfiJys)
 
 
-Salle obligatoire push-pull  ! [PushPull Video](https://youtu.be/krssJiDJLhY)
 
-
-Salle exercice incendie ![FireExercice Video](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Images/2022-08-30-181759_1920x1080_scrot.png?raw=true)
