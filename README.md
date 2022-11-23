@@ -118,7 +118,7 @@ Ses dialogues sont au format XML, facilitant ainsi la localisation dans les lang
 
 ##### Mode admin
 
-Bien que le jeu soit theroqiement self-hosted en local
+Bien que le jeu soit theroquiement self-hosted en local
 L'affichage de l'interface en mode admin et de la console sont **désactivées**, mais il est possible qu'elles le soient tout le temps (à verifier).
 --verifier la possibilité ou non de faire le tutoriel en coop.
 
@@ -127,9 +127,9 @@ L'affichage de l'interface en mode admin et de la console sont **désactivées**
 ### Installation
 #### Actuellement
 
- 1. Téléchargez le build test au format .zip
- 2. Version Windows ou Linux
- 3. Créez un dossier Unitystation dans votre dossier contenant vos jeux.
+ 1. Créez un dossier Unitystation dans votre dossier contenant vos jeux.
+ 2. Téléchargez le build test au format .zip Version ![Windows](https://mega.nz/file/ttkRRQya#_KBNU_OqKd7jDkEqPcdYlQT1EixCwMXfpD7_WYjYgSo) ou ![Linux](https://mega.nz/file/V0llFJ5A#BpL7vBYsQ9B-vadHhEAZvYdjsg9pNl_qkDmKGthBnHY)
+ 3. Decomprésser l'archive, rendez la executable si besoin.
  4. Collez et décompressez l'archive, vous devriez voir le build à executer
 
   
@@ -148,14 +148,16 @@ Executez celui-ci
 -------------
 
 ### Mise à jour
+Actuellement les Mise à jour du tutoriel se feront par le telechargement et l'ecrasement de l'ancien dossier par le nouveau.
+une fois le projet rendu, les update seront géré par StationHub directement.
 
 -------------
 
 ### Usage
 
-Une fois le build executé :
+Une fois le build executé (executable Unitystation) :
 
-Allez dans le menu [Tutoriel] Vert
+Allez dans le menu [color=#26B260][Tutoriel][/color]
 
 Sélectionnez la langue
 
@@ -172,7 +174,12 @@ Pour quitter le tutoriel, dirigez-vous vers la navette au sud de la station. Sur
 (idée : menu qui propose d'autres scenarios de tutoriels départements)
 
 ---
+### how to contribue - Players
+vous pouvez nous faire vos retour, positif et negatif (aussi construit que possible svp) en ouvrant une issue
+
+
 ### how to contribue - DEV
+
 ![DEV.MD](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Dev.md)
 
 
