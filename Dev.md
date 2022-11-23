@@ -9,7 +9,8 @@
 
 ```properties
 Bonjour, vous etes arriver ici, car vous souhaitez contribuer au developpement du tutoriel. félicitation ! (et merci)
-vous trouverez ici les information utile vous fous facilité la vie dans votre tache.```
+vous trouverez ici les information utile vous fous facilité la vie dans votre tache.
+```
 
 **Bonne chance.**
 
