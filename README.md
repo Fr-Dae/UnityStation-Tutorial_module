@@ -118,7 +118,9 @@ Ses dialogues sont au format XML, facilitant ainsi la localisation dans les lang
 
 ##### Mode admin
 
+Bien que le jeu soit theroqiement self-hosted en local
 L'affichage de l'interface en mode admin et de la console sont **désactivées**, mais il est possible qu'elles le soient tout le temps (à verifier).
+--verifier la possibilité ou non de faire le tutoriel en coop.
 
 -------------
 
