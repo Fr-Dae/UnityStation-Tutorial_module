@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-Systeme d'exploitation: 
-Version du tuto:
-Nouveau sur Unitystation ?: Oui / Non
-Nouveau sur SS13 ? : Oui / Non
-Autres details: 
+**Systeme d'exploitation:** 
+**Version du tuto:**
+**Nouveau sur Unitystation ?:** Oui / Non
+**Nouveau sur SS13 ? :** Oui / Non
+**Autres details:**
 
 ## Ce que j'ai apprécier :
 
@@ -34,4 +34,4 @@ Autres details:
 - Libre arbitre
 - User friendly
 
- Autre commentaires:
+**Autre commentaires:**
