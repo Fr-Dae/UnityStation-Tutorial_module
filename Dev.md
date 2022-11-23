@@ -4,7 +4,6 @@
 
 [TOC]
 
-### Language utilisé
 
 ----------
 ### Lancement du projet pour DEV
@@ -14,9 +13,7 @@
 
 ----------
 
-### Description du projet
-
-Version du projet 2021.3.12
+https://unitystation.github.io/unitystation/contribution-guides/Starting-contribution/
 
 ----------
 
