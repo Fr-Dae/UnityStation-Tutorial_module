@@ -1,7 +1,7 @@
 ---
 name: Feedback ticket
 about: Merci de votre retour construit et bienvaillant !
-title: "[FEEDBACK]"
+title: "[FEEDBACK] <Date> <player>"
 labels: Feedback
 assignees: ''
 
@@ -11,7 +11,7 @@ assignees: ''
 **Version du tuto:**
 **Nouveau sur Unitystation ?:** Oui / Non
 **Nouveau sur SS13 ? :** Oui / Non
-**Autres details:**
+**Autres details: **
 
 ## Ce que j'ai apprécier :
 
@@ -34,4 +34,4 @@ assignees: ''
 - Libre arbitre
 - User friendly
 
-**Autre commentaires:**
+** Autre commentaires:**
