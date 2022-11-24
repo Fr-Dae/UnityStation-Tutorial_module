@@ -16,9 +16,9 @@ vous trouverez ici les information utile vous fous facilité la vie dans votre t
 
 ### Lancement du projet pour DEV
 
-! [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
- - lisez ceci ! [Starting Contribution - UnityStation](https://unitystation.github.io/unitystation/contribution-guides/Starting-contribution/)
+ - lisez ceci [Starting Contribution - UnityStation](https://unitystation.github.io/unitystation/contribution-guides/Starting-contribution/)
 
  - Installer unity
 
