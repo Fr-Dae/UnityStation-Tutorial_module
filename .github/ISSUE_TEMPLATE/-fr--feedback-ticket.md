@@ -12,7 +12,7 @@ assignees: ''
 **Langues des dialogues:**
 **Nouveau sur Unitystation ?:** Oui / Non
 **Nouveau sur SS13 ? :** Oui / Non
-**Autres details: **
+**Autres details:**
 
 ## Ce que j'ai apprécier :
 
@@ -35,4 +35,5 @@ assignees: ''
 - Libre arbitre
 - User friendly
 
-** Autre commentaires:**
+**Autre commentaires:**
+
