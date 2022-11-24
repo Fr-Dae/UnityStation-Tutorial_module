@@ -127,7 +127,7 @@ L'affichage de l'interface en mode admin et de la console sont **désactivées**
 #### Actuellement
 
  1. Créez un dossier Unitystation dans votre dossier contenant vos jeux.
- 2. Téléchargez le build test au format .zip Version ![Windows](https://mega.nz/file/ttkRRQya#_KBNU_OqKd7jDkEqPcdYlQT1EixCwMXfpD7_WYjYgSo) ou ![Linux](https://mega.nz/file/V0llFJ5A#BpL7vBYsQ9B-vadHhEAZvYdjsg9pNl_qkDmKGthBnHY)
+ 2. Téléchargez le build test au format .zip Version [Windows](https://mega.nz/file/ttkRRQya#_KBNU_OqKd7jDkEqPcdYlQT1EixCwMXfpD7_WYjYgSo) ou [Linux](https://mega.nz/file/V0llFJ5A#BpL7vBYsQ9B-vadHhEAZvYdjsg9pNl_qkDmKGthBnHY)
  3. Decomprésser l'archive, rendez la executable si besoin.
  4. Collez et décompressez l'archive, vous devriez voir le build à executer
 
@@ -179,7 +179,7 @@ vous pouvez nous faire vos retour, positif et negatif (aussi construit que possi
 
 ### how to contribue - DEV
 
-![DEV.MD](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Dev.md)
+[DEV.MD](https://github.com/Unitystation-fork/UnityStation-Tutorial/blob/main/Dev.md)
 
 
   
@@ -188,7 +188,7 @@ vous pouvez nous faire vos retour, positif et negatif (aussi construit que possi
 
 #### prototype
 
-il existe une video de gameplay pour la version 1.0.5  ! [Video Prototo 1.0.5](https://youtu.be/SM2RSpfiJys)
+il existe une video de gameplay pour la version 1.0.5   [Video Prototo 1.0.5](https://youtu.be/SM2RSpfiJys)
 
 
 
