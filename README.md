@@ -49,7 +49,7 @@ Ce projet a pour but  de crée une extention pour Unitystation, affin d'apprendr
 
 Géré par l'équipe de developpement de Unionrolistes
 
-Liste des contributeurs -- ![Credit.md](/Credit.md) & ![Licence.md](/LICENSE)
+Liste des contributeurs -- [Credit.md](/Credit.md) & [Licence.md](/LICENSE)
 
 -------------
 
