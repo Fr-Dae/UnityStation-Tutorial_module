@@ -41,7 +41,7 @@ XML
 
 ### Description du projet
 
-Ce projet a pour but  de crée une extention pour Unitystation, affin d'apprendre les bases aux nouveaux joueurs découvrant le jeu.
+Ce projet a pour but  de crée un module complementaire pour Unitystation, afin d'apprendre les bases aux nouveaux joueurs découvrant le jeu.
 
 -------------
 
