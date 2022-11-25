@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-**Systeme d'exploitation:** 
-**Version du tuto:**
-**Langues des dialogues:**
-**Nouveau sur Unitystation ?:** Oui / Non
-**Nouveau sur SS13 ? :** Oui / Non
-**Autres details:**
+- **Systeme d'exploitation:** 
+- **Version du tuto:**
+- **Langues des dialogues:**
+- **Nouveau sur Unitystation ?:** Oui / Non
+- **Nouveau sur SS13 ? :** Oui / Non
+- **Autres details:**
 
 ## À propos du Tutoriel uniquement
 ### Ce que j'ai apprécier :
@@ -71,5 +71,5 @@ assignees: ''
   
   
   
-##Autres commentaires:
+## Autres commentaires:
 
