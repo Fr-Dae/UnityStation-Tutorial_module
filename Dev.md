@@ -22,10 +22,6 @@ vous trouverez ici les information utile vous fous facilité la vie dans votre t
 
  - Installer unity
 
- - Cloner unitystation-dev_2022_08_24 (Branche:Tutorial) [ForkMe](https://github.com/Unitystation-fork/unitystation-dev_2022_08_24)
- 
- - Lancer le projet unitystation-dev_2022_08_24/UnityProject
-
 
 ----------
 
@@ -57,13 +53,17 @@ que l'utilisateur unitystation pourra a loisir activé ou non.```
 
 ### Installation
 
-#### .
+- Unity Hub [Hub](https://unity3d.com/get-unity/download] en version  2021.3.12f1 LTS
+
+- Cloner unitystation-dev_2022_08_24 (Branche:Tutorial) [ForkMe](https://github.com/Unitystation-fork/unitystation-dev_2022_08_24)
+ 
+- Lancer le projet unitystation-dev_2022_08_24/UnityProject
 
 ----------
 
 ### Mise à jour
 
-#### .
+pour l'ajout de nouveau code, vous devez cree une branche a partir des ticket issues, ce qui nous facilitera le suivie des commit / merge .
 
 ----------
 
