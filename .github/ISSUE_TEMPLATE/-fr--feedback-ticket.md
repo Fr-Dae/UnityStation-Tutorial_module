@@ -24,7 +24,7 @@ assignees: ''
 ## Ce que je n'ai pas Compris :
 ---
 
-(exemple de point à abordé) 
+(exemple de point à aborder) 
 - Moteur du jeu
 - Durée du tutoriel
 - Complexité
@@ -35,5 +35,5 @@ assignees: ''
 - Libre arbitre
 - User friendly
 
-**Autre commentaires:**
+**Autres commentaires:**
 
