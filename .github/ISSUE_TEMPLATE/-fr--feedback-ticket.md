@@ -14,14 +14,15 @@ assignees: ''
 **Nouveau sur SS13 ? :** Oui / Non
 **Autres details:**
 
-## Ce que j'ai apprécier :
+## À propos du Tutoriel uniquement
+### Ce que j'ai apprécier :
 
 ---
 
-## Ce que je n'ai PAS apprécier :
+### Ce que je n'ai PAS apprécier :
 ---
 
-## Ce que je n'ai pas Compris :
+### Ce que je n'ai pas Compris :
 ---
 
 (exemple de point à aborder) 
@@ -35,5 +36,19 @@ assignees: ''
 - Libre arbitre
 - User friendly
 
-**Autres commentaires:**
+## À propos du reste du jeu Unitystation
+### Ce que j'ai apprécier :
+
+---
+
+### Ce que je n'ai PAS apprécier :
+---
+
+### Ce que je n'ai pas Compris :
+---
+  
+  
+  
+  
+##Autres commentaires:
 
