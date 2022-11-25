@@ -11,7 +11,7 @@ assignees: ''
 - **Version of the tutorial:**
 - **Dialogue Languages:**
 - **New to Unitystation:** Yes / No
-- **New to SS13? Yes / No
+- **New to SS13?** Yes / No
 - **Other details:**
 
 ## About the Tutorial only
