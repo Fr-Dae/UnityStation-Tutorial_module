@@ -31,8 +31,8 @@ Géré par l'équipe de developpement de Unionrolistes Liste des contributeur [C
 
 ### But du projet / public cible
 
- ```
-Actuellement tu as Unitystation, qui fait sa petite vie, update/bug/update/bug etc.
+ ```properties
+ Actuellement tu as Unitystation, qui fait sa petite vie, update/bug/update/bug etc.
 NOUS, qui travaillon sur un niveau tutoriel , un mode solo (dans un jeu multi) avec instruction et dialogues.
 
 à l'origine le projet est concu pour n'etre qu'une brique de lego qu'il faut plug sur unitystation pour fonctionner.
@@ -47,7 +47,9 @@ ils travail sur la listes des bug (genre le bot-guide qui reste coincé dans un 
 
 PUIS feront l'update pour faire un standaone avec la version actuel (decembre22)
 et SI on y arrive on empacte seulement les element nouveau du tutoriel, pour en faire un submodule
-que l'utilisateur unitystation pourra a loisir activé ou non.```
+que l'utilisateur unitystation pourra a loisir activé ou non
+```
+
 
 ----------
 
