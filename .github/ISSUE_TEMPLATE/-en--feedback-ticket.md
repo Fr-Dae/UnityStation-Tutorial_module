@@ -7,23 +7,34 @@ assignees: ''
 
 ---
 
-**Operating system:** 
-**Version of the tutorial:**
-**Dialogue Languages:**
-**New to Unitystation:** Yes / No
-**New to SS13? Yes / No
-**Other details:**
+- **Operating system:** 
+- **Version of the tutorial:**
+- **Dialogue Languages:**
+- **New to Unitystation:** Yes / No
+- **New to SS13? Yes / No
+- **Other details:**
 
 ## About the Tutorial only
 ### What I liked :
 
+  -
+  -
+  
 ---
 
 ### What I did NOT like :
+  
+  -
+  -
+  
 ---
 
-### What I did NOT understand: ---
----
+### What I did NOT understand:
+  
+  -
+  -
+  
+  ---
 
 (example of a point to address) 
 - Game engine
@@ -37,5 +48,27 @@ assignees: ''
 - User friendly
 
 ## About the rest of the game Unitystation
+### What I liked :
 
-** Other comments:**
+  -
+  -
+  
+---
+
+### What I did NOT like :
+  
+  -
+  -
+  
+---
+
+### What I did NOT understand:
+  
+  -
+  -
+  
+  ---
+  
+  
+## Other comments:
+  -
