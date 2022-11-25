@@ -14,17 +14,18 @@ assignees: ''
 **New to SS13? Yes / No
 **Other details:**
 
-## What I liked :
+## About the Tutorial only
+### What I liked :
 
 ---
 
-## What I did NOT like: ---
+### What I did NOT like :
 ---
 
-## What I did NOT understand: ---
+### What I did NOT understand: ---
 ---
 
-(example of a point to be addressed) 
+(example of a point to address) 
 - Game engine
 - Length of the tutorial
 - Complexity
@@ -34,5 +35,7 @@ assignees: ''
 - Handling and intuitiveness 
 - Free will
 - User friendly
+
+## About the rest of the game Unitystation
 
 ** Other comments:**
