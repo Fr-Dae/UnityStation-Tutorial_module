@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 - **Operating system:** 
-- **Version of the tutorial:**
+- **Version of the tutorial:**1.0.5 "standalone"
 - **Dialogue Languages:**
 - **New to Unitystation:** Yes / No
 - **New to SS13?** Yes / No
