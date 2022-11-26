@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 - **Systeme d'exploitation:** 
-- **Version du tuto:**
+- **Version du tuto:** 1.0.5 "standalone"
 - **Langues des dialogues:**
 - **Nouveau sur Unitystation ?:** Oui / Non
 - **Nouveau sur SS13 ? :** Oui / Non
