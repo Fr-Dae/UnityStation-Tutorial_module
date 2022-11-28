@@ -7,24 +7,36 @@ assignees: ''
 
 ---
 
-**Systeme d'exploitation:** 
-**Version du tuto:**
-**Langues des dialogues:**
-**Nouveau sur Unitystation ?:** Oui / Non
-**Nouveau sur SS13 ? :** Oui / Non
-**Autres details:**
+- **Systeme d'exploitation:** 
+- **Version du tuto:** 1.0.5 "standalone"
+- **Langues des dialogues:**
+- **Nouveau sur Unitystation ?:** Oui / Non
+- **Nouveau sur SS13 ? :** Oui / Non
+- **Autres details:**
 
-## Ce que j'ai apprécier :
+## À propos du Tutoriel uniquement
+### Ce que j'ai apprécier :
+  
+  -
+  -
 
 ---
 
-## Ce que je n'ai PAS apprécier :
+### Ce que je n'ai PAS apprécier :
+  
+  -
+  -
+  
 ---
 
-## Ce que je n'ai pas Compris :
+### Ce que je n'ai pas Compris :
+  
+  -
+  -
+  
 ---
 
-(exemple de point à abordé) 
+(exemple de point à aborder) 
 - Moteur du jeu
 - Durée du tutoriel
 - Complexité
@@ -35,5 +47,29 @@ assignees: ''
 - Libre arbitre
 - User friendly
 
-**Autre commentaires:**
+## À propos du reste du jeu Unitystation
+### Ce que j'ai apprécier :
+  -
+  -
+
+---
+
+### Ce que je n'ai PAS apprécier :
+  
+  -
+  -
+  
+---
+
+### Ce que je n'ai pas Compris :
+  
+  -
+  -
+  
+---
+  
+  
+  
+  
+## Autres commentaires:
 
