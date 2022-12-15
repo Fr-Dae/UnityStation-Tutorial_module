@@ -42,6 +42,7 @@ XML
 ### Description du projet
 
 Ce projet a pour but  de crée un module complementaire pour Unitystation, afin d'apprendre les bases aux nouveaux joueurs découvrant le jeu.
+Le tutoriel est en français et couvre différents aspects du jeu, tels que les contrôles de base, l'équipement d'objets, l'utilisation de l'oxygène et de la combinaison spatiale, et la réparation d'un trou dans le sol d'une pièce.
 
 -------------
 
